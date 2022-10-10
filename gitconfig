@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cassandre.marquis@gmail.com
+	name = Cassandre Marquis
